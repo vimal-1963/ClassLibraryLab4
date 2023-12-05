@@ -10,3 +10,15 @@ D:\Centennial College\Semester4\Devops\Lab4\ClassLibraryProjects\String Library\
 D:\Centennial College\Semester4\Devops\Lab4\ClassLibraryProjects\String Library\obj\Debug\net6.0\refint\String Library.dll
 D:\Centennial College\Semester4\Devops\Lab4\ClassLibraryProjects\String Library\obj\Debug\net6.0\String Library.pdb
 D:\Centennial College\Semester4\Devops\Lab4\ClassLibraryProjects\String Library\obj\Debug\net6.0\ref\String Library.dll
+F:\SEMESTER 6\Devops\ClassLibraryProjects\String Library\bin\Debug\net6.0\String Library.deps.json
+F:\SEMESTER 6\Devops\ClassLibraryProjects\String Library\bin\Debug\net6.0\String Library.dll
+F:\SEMESTER 6\Devops\ClassLibraryProjects\String Library\bin\Debug\net6.0\String Library.pdb
+F:\SEMESTER 6\Devops\ClassLibraryProjects\String Library\obj\Debug\net6.0\String Library.csproj.AssemblyReference.cache
+F:\SEMESTER 6\Devops\ClassLibraryProjects\String Library\obj\Debug\net6.0\String Library.GeneratedMSBuildEditorConfig.editorconfig
+F:\SEMESTER 6\Devops\ClassLibraryProjects\String Library\obj\Debug\net6.0\String Library.AssemblyInfoInputs.cache
+F:\SEMESTER 6\Devops\ClassLibraryProjects\String Library\obj\Debug\net6.0\String Library.AssemblyInfo.cs
+F:\SEMESTER 6\Devops\ClassLibraryProjects\String Library\obj\Debug\net6.0\String Library.csproj.CoreCompileInputs.cache
+F:\SEMESTER 6\Devops\ClassLibraryProjects\String Library\obj\Debug\net6.0\String Library.dll
+F:\SEMESTER 6\Devops\ClassLibraryProjects\String Library\obj\Debug\net6.0\refint\String Library.dll
+F:\SEMESTER 6\Devops\ClassLibraryProjects\String Library\obj\Debug\net6.0\String Library.pdb
+F:\SEMESTER 6\Devops\ClassLibraryProjects\String Library\obj\Debug\net6.0\ref\String Library.dll

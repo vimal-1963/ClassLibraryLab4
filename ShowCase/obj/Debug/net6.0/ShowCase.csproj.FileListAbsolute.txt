@@ -16,3 +16,21 @@ D:\Centennial College\Semester4\Devops\Lab4\ClassLibraryProjects\ShowCase\obj\De
 D:\Centennial College\Semester4\Devops\Lab4\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\ShowCase.pdb
 D:\Centennial College\Semester4\Devops\Lab4\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\ShowCase.genruntimeconfig.cache
 D:\Centennial College\Semester4\Devops\Lab4\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\ref\ShowCase.dll
+F:\SEMESTER 6\Devops\ClassLibraryProjects\ShowCase\bin\Debug\net6.0\ShowCase.exe
+F:\SEMESTER 6\Devops\ClassLibraryProjects\ShowCase\bin\Debug\net6.0\ShowCase.deps.json
+F:\SEMESTER 6\Devops\ClassLibraryProjects\ShowCase\bin\Debug\net6.0\ShowCase.runtimeconfig.json
+F:\SEMESTER 6\Devops\ClassLibraryProjects\ShowCase\bin\Debug\net6.0\ShowCase.dll
+F:\SEMESTER 6\Devops\ClassLibraryProjects\ShowCase\bin\Debug\net6.0\ShowCase.pdb
+F:\SEMESTER 6\Devops\ClassLibraryProjects\ShowCase\bin\Debug\net6.0\String Library.dll
+F:\SEMESTER 6\Devops\ClassLibraryProjects\ShowCase\bin\Debug\net6.0\String Library.pdb
+F:\SEMESTER 6\Devops\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\ShowCase.csproj.AssemblyReference.cache
+F:\SEMESTER 6\Devops\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\ShowCase.GeneratedMSBuildEditorConfig.editorconfig
+F:\SEMESTER 6\Devops\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\ShowCase.AssemblyInfoInputs.cache
+F:\SEMESTER 6\Devops\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\ShowCase.AssemblyInfo.cs
+F:\SEMESTER 6\Devops\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\ShowCase.csproj.CoreCompileInputs.cache
+F:\SEMESTER 6\Devops\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\ShowCase.csproj.CopyComplete
+F:\SEMESTER 6\Devops\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\ShowCase.dll
+F:\SEMESTER 6\Devops\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\refint\ShowCase.dll
+F:\SEMESTER 6\Devops\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\ShowCase.pdb
+F:\SEMESTER 6\Devops\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\ShowCase.genruntimeconfig.cache
+F:\SEMESTER 6\Devops\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\ref\ShowCase.dll
